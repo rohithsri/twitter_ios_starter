@@ -16,6 +16,7 @@
 		F7F20C0F2207F17300886AA2 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7F20C0E2207F17300886AA2 /* LoginViewController.swift */; };
 		F7F20C112207FEBD00886AA2 /* HomeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7F20C102207FEBD00886AA2 /* HomeTableViewController.swift */; };
 		F7F20C1322080FCE00886AA2 /* TweetCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7F20C1222080FCE00886AA2 /* TweetCellTableViewCell.swift */; };
+		F7F20C15220900A100886AA2 /* TweetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7F20C14220900A100886AA2 /* TweetViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		F7F20C0E2207F17300886AA2 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		F7F20C102207FEBD00886AA2 /* HomeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableViewController.swift; sourceTree = "<group>"; };
 		F7F20C1222080FCE00886AA2 /* TweetCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetCellTableViewCell.swift; sourceTree = "<group>"; };
+		F7F20C14220900A100886AA2 /* TweetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				F7F20C0E2207F17300886AA2 /* LoginViewController.swift */,
 				F7F20C102207FEBD00886AA2 /* HomeTableViewController.swift */,
 				F7F20C1222080FCE00886AA2 /* TweetCellTableViewCell.swift */,
+				F7F20C14220900A100886AA2 /* TweetViewController.swift */,
 			);
 			path = Twitter;
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 			files = (
 				F7F20C112207FEBD00886AA2 /* HomeTableViewController.swift in Sources */,
 				F7F20C0F2207F17300886AA2 /* LoginViewController.swift in Sources */,
+				F7F20C15220900A100886AA2 /* TweetViewController.swift in Sources */,
 				6EBCF54421E047A500451C03 /* TwitterAPICaller.swift in Sources */,
 				F7F20C1322080FCE00886AA2 /* TweetCellTableViewCell.swift in Sources */,
 				6EBCF52621DF07FC00451C03 /* AppDelegate.swift in Sources */,
